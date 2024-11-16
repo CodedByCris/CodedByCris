@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cris</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi there! 👋</h1>
+<h3 align="center">I'm Cris, a passionate junior developer with experience in Flutter. I have a solid background in programming, thanks to my studies in Software Development (DAM), where I gained expertise in Java and C#. Currently, I'm expanding my skillset by learning Python with a focus on cybersecurity.</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/WkgpyPpxpDUAAAAM/work-internet.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedbycris&label=Profile%20views&color=0e75b6&style=flat" alt="codedbycris" /> </p>
 
@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/cristian-arellano-agudo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian-arellano-agudo/" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">LANGUAGES AND TOOLS:</h3>
 <p align="left"> 
 <h3 align="left">FrontEnd</h3>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
