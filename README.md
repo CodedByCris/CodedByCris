@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">I'm Cris, a passionate junior developer with experience in Flutter. I have a solid background in programming, thanks to my studies in Software Development (DAM), where I gained expertise in Java and C#. Currently, I'm expanding my skillset by learning Python with a focus on cybersecurity.</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/WkgpyPpxpDUAAAAM/work-internet.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/WkgpyPpxpDUAAAAM/work-internet.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedbycris&label=Profile%20views&color=0e75b6&style=flat" alt="codedbycris" /> </p>
 
 - 🌱 I’m currently learning **Python**
@@ -50,8 +50,8 @@
 
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbycris&show_icons=true&locale=en&layout=compact" alt="codedbycris" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbycris&show_icons=true&locale=en&layout=compact" alt="codedbycris" /></p>
 <hr>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=codedbycris&show_icons=true&locale=en" alt="codedbycris" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=codedbycris&show_icons=true&locale=en" alt="codedbycris" /></p>
 <hr>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbycris&" alt="codedbycris" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbycris&" alt="codedbycris" /></p>
