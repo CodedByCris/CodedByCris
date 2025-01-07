@@ -1,12 +1,12 @@
 # 💫 About Me:
-I'm Cris, a passionate junior developer with experience in Flutter. I have a solid background in programming, thanks to my studies in Multiplatform application development (DAM), where I gained expertise in Java and C#.<br><br>
-During this year 2025, I have proposed to do a series of fullStack projects mixing flutter for the front and python with fastApi for the back.
-<br><br>🌱 I’m currently learning Python<br>📫 How to reach me CodedByCris@gmail.com
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/WkgpyPpxpDUAAAAM/work-internet.gif">
+I'm Cris, a passionate junior developer with experience in Flutter. I have a solid background in programming, thanks to my studies in Multiplatform application development (DAM), where I gained expertise in Java and C#.<br><br>📆 During this year 2025, I have proposed to do a series of fullStack projects mixing flutter for the front and python with fastApi for the back.<br>🌱 I’m currently learning Python<br>📫 How to reach me CodedByCris@gmail.com
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-arellano-agudo) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/criis01_) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@criss01__) 
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -26,12 +26,11 @@ During this year 2025, I have proposed to do a series of fullStack projects mixi
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodedByCris&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodedByCris&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByCris&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=CodedByCris&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodedByCris&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByCris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CodedByCris&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
