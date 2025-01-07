@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm Cris, a passionate junior developer with experience in Flutter. I have a solid background in programming, thanks to my studies in Multiplatform application development (DAM), where I gained expertise in Java and C#.<br>
+I'm Cris, a passionate junior developer with experience in Flutter. I have a solid background in programming, thanks to my studies in Multiplatform application development (DAM), where I gained expertise in Java and C#.<br><br>
 During this year 2025, I have proposed to do a series of fullStack projects mixing flutter for the front and python with fastApi for the back.
-<br>🌱 I’m currently learning Python<br>📫 How to reach me CodedByCris@gmail.com
+<br><br>🌱 I’m currently learning Python<br>📫 How to reach me CodedByCris@gmail.com
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/WkgpyPpxpDUAAAAM/work-internet.gif">
 
 
