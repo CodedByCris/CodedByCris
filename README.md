@@ -7,7 +7,6 @@ I'm Cris, a passionate junior developer with experience in Flutter. I have a sol
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/criis01_) 
 [![Web](https://img.shields.io/badge/Website-%23000000.svg?logo=web&logoColor=white)](https://codedbycris.netlify.app/)
 
-](https://codedbycris.netlify.app/)
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
