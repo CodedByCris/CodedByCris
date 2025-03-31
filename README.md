@@ -1,12 +1,13 @@
-# 💫 About Me:
+[# 💫 About Me:
 I'm Cris, a passionate junior developer with experience in Flutter. I have a solid background in programming, thanks to my studies in Multiplatform application development (DAM), where I gained expertise in Java and C#.<br><br>📆 During this year 2025, I have proposed to do a series of fullStack projects mixing flutter for the front and python with fastApi for the back.<br>🌱 I’m currently learning Python<br>📫 How to reach me CodedByCris@gmail.com
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-arellano-agudo) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/criis01_) 
+[![Web](https://img.shields.io/badge/Website-%23000000.svg?logo=web&logoColor=white)](https://codedbycris.netlify.app/)
 
-
+](https://codedbycris.netlify.app/)
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
